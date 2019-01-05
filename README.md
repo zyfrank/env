@@ -1,2 +1,2 @@
 # env
-enviroment
+shell script for enviroment
